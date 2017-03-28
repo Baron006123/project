@@ -1,0 +1,2 @@
+var sys = require('util');
+sys.put('hello world');
